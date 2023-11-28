@@ -2,7 +2,7 @@
 
 <img src="./mt-app-pic.png" width=70% height=70%>
 
-This software project is/will be composed of the following:
+This software project is composed of the following:
 
 __Frontend__
 - An app that is developed using Flutter. The app can capture the image of COVID-19 lateral flow assays and send them to the backend for analysis and storage.
