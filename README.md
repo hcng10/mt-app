@@ -1,6 +1,6 @@
 # MT-APP
 
-<img src="./mt-app-pic.png" width=50% height=50%>
+<img src="./mt-app-pic.png" width=70% height=70%>
 
 This software project is/will be composed of the following:
 
@@ -9,3 +9,5 @@ __Frontend__
 
 __Backend__
 - Based on Django REST. The backend receives the requests from the app, such as user registration and login, image submission, and databasing.
+- Histogram of oriented gradients (HOG) is used to define features and  SVM is subsequently  trained and used to identify the assays.
+- Once the assay is recognized, the test lines will be interpreted using CNNs.
